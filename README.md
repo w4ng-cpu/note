@@ -1,3 +1,5 @@
+Decided to go with Flutter for now. One codebase for website, desktop and mobile platforms
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
